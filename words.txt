@@ -1,0 +1,5 @@
+house
+cow
+notcow
+japan
+america
